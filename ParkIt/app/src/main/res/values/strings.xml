@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ParkIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_records">Records</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signinbtn">Sign In</string>
+    <string name="signupbtn">Sign Up</string>
+    <string name="registertextview">Not a member?Register now!</string>
+    <string name="signintextview">Already registered?Sign in!</string>
+    <string name="minimum_password">Password too short,enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed,check your email and password or sign up</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_records">Records</string>
+    <string name="textview5">You can find parking slot from google maps,by pressing the button below!</string>
+    <string name="searchbtn_homepage">Search for parking</string>
+    <string name="logoutbtn">Log out</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_title">Instructions</string>
+    <string name="dialog_message">By pressing the button Search for parking you go to Map.There according to your location you can select the parking slot you want to park.</string>
+    <string name="toast_email">Enter email address!</string>
+    <string name="toast_password">Enter password!</string>
+    <string name="auth_failed2">Authentication failed</string>
+    <string name="user_create">User created:</string>
+    <string name="toast_logout">You are logged out!</string>
+    <string name="toast_welcome">Welcome </string>
+    <string name="toast_instructions">Go to home screen to see the Instructions</string>
+    <string name="toast_locationbtn">Searching for your location</string>
+    <string name="toast_leaveparking">You left</string>
+    <string name="parkl1">Parking location 1</string>
+    <string name="parkl2">Parking location 2</string>
+    <string name="parkl3">Parking location 3</string>
+    <string name="parkl4">Parking location 4</string>
+    <string name="parkl5">Parking location 5</string>
+    <string name="parkl6">Parking location 6</string>
+    <string name="parkl7">Parking location 7</string>
+    <string name="parkl8">Parking location 8</string>
+    <string name="parkl9">Parking location 9</string>
+    <string name="parkl10">Parking location 10</string>
+    <string name="parking_locations_title">Parking Locations</string>
+    <string name="textview3">Steps counter</string>
+    <string name="textview4">Proximity</string>
+    <string name="steps">steps</string>
+    <string name="textview7">You can press Park here button if you want to park.When you leave you have to press Leave parking button.</string>
+    <string name="parkherebtn">Park here</string>
+    <string name="leaveparkingbtn">Leave parking</string>
+    <string name="dialog_message2">You parked to this location.If you want to leave press the Leave parking button.</string>
+    <string name="dialog_message3">You have parked to this location.If you want to leave press the Leave parking button.</string>
+    <string name="records_default">No records found</string>
+    <string name="permission_settings">Manage your permissions to use the app</string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">General</string>
+    <string name="information_header">Information</string>
+    <string name="sync_header">Sync</string>
+    <string name="version_header">Version</string>
+
+    <!-- General Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="language">Language</string>
+
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Greek</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>English</item>
+        <item>Greek</item>
+    </string-array>
+
+    <!-- Information Preferences -->
+    <string name="info_title">Instructions</string>
+
+    <!-- Version Preferences -->
+    <string name="version_title">Version Number</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ParkIt</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="action_map">Χάρτης</string>
+    <string name="action_records">Καταγραφές</string>
+    <string name="email">Email</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="signinbtn">Σύνδεση</string>
+    <string name="signupbtn">Εγγραφή</string>
+    <string name="registertextview">Δεν είστε μέλος?Κάντε εγγραφή τώρα!</string>
+    <string name="signintextview">Είστε ήδη εγγεγραμμένος?Συνδεθείτε!</string>
+    <string name="minimum_password">Κωδικός πολύ μικρός,εισάγετε τουλάχιστον 6 χαρακτήρες</string>
+    <string name="auth_failed">Η πιστοποίηση απέτυχε.Δείτε το email και τον κωδικό ή κάντε εγγραφή</string>
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+    <string name="title_activity_records">Καταγραφές</string>
+    <string name="textview5">Μπορείτε να βρείτε θέση πάρκινγκ από τους χάρτες,πατώντας παρακάτω!</string>
+    <string name="searchbtn_homepage">Αναζήτηση για πάρκινγκ</string>
+    <string name="logoutbtn">Αποσύνδεση</string>
+    <string name="title_activity_maps">Χάρτης</string>
+    <string name="dialog_title">Οδηγίες</string>
+    <string name="dialog_message">Πατώντας το κουμπί Αναζήτηση για πάρκινγκ πηγαίνετε στο Χάρτη.Εκεί με βάση τη τοποθεσία σας επιλέγετε που θέλετε να παρκάρετε.</string>
+    <string name="toast_email">Εισάγετε διεύθυνση email!</string>
+    <string name="toast_password">Εισάγετε κωδικό πρόσβασης!</string>
+    <string name="auth_failed2">Η πιστοποίηση απέτυχε</string>
+    <string name="user_create">Ο χρήστης δημιουργήθηκε:</string>
+    <string name="toast_logout">Αποσυνδεθήκατε!</string>
+    <string name="toast_welcome">Καλώς ήρθατε </string>
+    <string name="toast_instructions">Πηγαίντε στην αρχική οθόνη για να δείτε τις οδηγίες</string>
+    <string name="toast_locationbtn">Αναζήτηση για την τοποθεσία σας</string>
+    <string name="toast_leaveparking">Αποχωρήσατε από τη</string>
+    <string name="parkl1">Θέση στάθμευσης 1</string>
+    <string name="parkl2">Θέση στάθμευσης 2</string>
+    <string name="parkl3">Θέση στάθμευσης 3</string>
+    <string name="parkl4">Θέση στάθμευσης 4</string>
+    <string name="parkl5">Θέση στάθμευσης 5</string>
+    <string name="parkl6">Θέση στάθμευσης 6</string>
+    <string name="parkl7">Θέση στάθμευσης 7</string>
+    <string name="parkl8">Θέση στάθμευσης 8</string>
+    <string name="parkl9">Θέση στάθμευσης 9</string>
+    <string name="parkl10">Θέση στάθμευσης 10</string>
+    <string name="parking_locations_title">Θέσεις στάθμευσης</string>
+    <string name="textview3">Μετρητής βημάτων</string>
+    <string name="textview4">Απόσταση</string>
+    <string name="steps">βήματα</string>
+    <string name="textview7">Μπορείτε να πατήσετε το κουμπί Παρκάρετε εδώ αν θέλετε να παρκάρετε.Όταν φύγετε πρέπει να πατήσετε το κουμπί Αποχωρήστε από το πάρκινγκ.</string>
+    <string name="parkherebtn">Παρκάρετε εδώ</string>
+    <string name="leaveparkingbtn">Αποχωρήστε από το πάρκινγκ</string>
+    <string name="dialog_message2">Παρκάρατε σε αυτή την τοποθεσία.Αν θέλετε να φύγετε πατήστε το κουμπί Αποχωρήστε από το πάρκινγκ.</string>
+    <string name="dialog_message3">Έχετε παρκάρει σε αυτή την τοποθεσία.Αν θέλετε να φύγετε πατήστε το κουμπί Αποχωρήστε από το πάρκινγκ.</string>
+    <string name="records_default">Δεν βρέθηκαν καταγραφές</string>
+    <string name="permission_settings">Διαχειριστείτε τις άδειες για να χρησιμοποιήσετε την εφαρμογή</string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">Γενικά</string>
+    <string name="information_header">Πληροφορίες</string>
+    <string name="sync_header">Συγχρονισμός</string>
+    <string name="version_header">Έκδοση</string>
+
+    <!-- General Preferences -->
+    <string name="signature_title">Η υπογραφή σου</string>
+    <string name="language">Γλώσσα</string>
+
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Greek</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>English</item>
+        <item>Greek</item>
+    </string-array>
+
+    <!-- Information Preferences -->
+    <string name="info_title">Οδηγίες</string>
+
+    <!-- Version Preferences -->
+    <string name="version_title">Αριθμός Έκδοσης</string>
+</resources>
